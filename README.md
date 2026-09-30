@@ -6,6 +6,6 @@
 
 ### Файлы:
 
-### Анкета
+### Анкета https://github.com/prof-bykov/image-2026/blob/main/anketa.md
 
 ### Данные опроса https://github.com/prof-bykov/image-2026/blob/main/image-polit-26.xlsx
