@@ -9,3 +9,7 @@
 ### Анкета https://github.com/prof-bykov/image-2026/blob/main/anketa.md
 
 ### Данные опроса https://github.com/prof-bykov/image-2026/blob/main/image-polit-26.xlsx
+
+### Толстой Петр Олегович // Государственная Дума Федерального Собрания Российской Федерации [Электронный ресурс]. URL: http://duma.gov.ru/duma/persons/99109137/ (дата обращения: 19.09.2026).
+
+### Бондаренко Николай Николаевич // ASAFOV.RU [Электронный ресурс]. URL: https://asafov.ru/person/nikolaj-nikolaevich-bondarenko (дата обращения: 19.09.2026).
